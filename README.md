@@ -1,5 +1,5 @@
 # tictactoe
-![logo](https://drive.google.com/file/d/1vVTjdcmT8b_QrmfN90U8o67JiSHnJ2TS/view)
+![logo](https://drive.google.com/file/d/1vVTjdcmT8b_QrmfN90U8o67JiSHnJ2TS/view?usp=sharing)
 Tic tac toe, also known as Noughts and Crosses or Xs and Os, is a very simple two-player game where both the player get to choose any of the symbols between X and O. This game is played on a 3X3 grid board and one by one each player gets a chance to mark its respective symbol on the empty spaces of the grid. Once a player is successful in marking a strike of the same symbol either in the horizontal, vertical or diagonal that player wins the game else the game goes on a draw if all the spots are filled.
 Created this simple game using javascript dom manipulation.
 # Advantage of this project
