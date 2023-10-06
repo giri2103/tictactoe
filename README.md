@@ -14,4 +14,4 @@ Created this simple game using javascript dom manipulation.
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/uc?export=view&id=17urJVUxAVESl_ERHAfRDXLe50WwSMoIc)
+![App Screenshot](https://drive.google.com/uc?export=view&id=1FqRMrYBnhjnZ8hvznPxaqQ2BiB2exjMU)
